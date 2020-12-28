@@ -22,3 +22,9 @@ La API expone un solo endpoint:
   * List<String> de IDs de productos seleccionados.
   * Monto de utilización del cupón.
   
+## Hosteado en Heroku
+URL: https://coupon-exercise.herokuapp.com/coupon/
+
+Ejemplo usando Insomnia.
+
+![Insomnia](https://i.gyazo.com/5f9e968eda38672b0ab959e560e23c8d.png)
