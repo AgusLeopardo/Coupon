@@ -17,10 +17,10 @@ La API expone un solo endpoint:
 * Acepta y devuelve application/json.
 * Request body
   * List<String> - Lista de IDs de productos.
-  * Valor del cupon, no negativo.
+  * Float - Valor del cupon, no negativo.
 * Response body
-  * List<String> de IDs de productos seleccionados.
-  * Monto de utilización del cupón.
+  * List<String> - IDs de productos seleccionados.
+  * Float - Monto de utilización del cupón.
   
 ## Hosteado en Heroku
 URL: https://coupon-exercise.herokuapp.com/coupon/
